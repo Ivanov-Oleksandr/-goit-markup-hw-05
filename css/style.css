@@ -739,3 +739,8 @@ body {
   background-color: var(--primary-background-color);
   fill: #000000;
 }
+
+.modal-btn:hover,
+.modal-btn:focus {
+  fill: var(--accent-color);
+}
